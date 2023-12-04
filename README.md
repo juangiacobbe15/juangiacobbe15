@@ -1,7 +1,7 @@
 <div id='header' align='center'>
     <img src='https://media.giphy.com/media/uurtMtTKqkJda4dk8Y/giphy-downsized-large.gif' width="200"/>
     <h1>Hi👋, I'm Juan Ignacio Giacobbe</h1>
-    <p align='center'>I'm a 18 year old computer engineering student from Argentina looking for his first work experience as a Fullstack Web Developer. I specialize in handling Javascript, Node JS and React JS. I always try to give the most efficient solutions and I can adapt in different work groups.</p>
+    <p align='center'>I'm a 19 year old computer engineering student from Argentina looking for his first work experience as a Fullstack Web Developer. I specialize in handling Javascript, Node JS and React JS. I always try to give the most efficient solutions and I can adapt in different work groups.</p>
 </div>
 
 ---
