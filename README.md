@@ -1,7 +1,8 @@
 <div id='header' align='center'>
     <img src='https://media.giphy.com/media/uurtMtTKqkJda4dk8Y/giphy-downsized-large.gif' width="200"/>
     <h1>Hi👋, I'm Juan Ignacio Giacobbe</h1>
-    <p align='center'>I'm a 19 year old computer engineering student from Argentina looking for his first work experience as a Fullstack Web Developer. I specialize in handling Javascript, Node JS and React JS. I always try to give the most efficient solutions and I can adapt in different work groups.</p>
+    <p align='center'>I'm an advanced student in computer engineering at the University of Buenos Aires. I've chosen to follow this career because I've always been interested in technology development and computer science since I was a child. I always try to give the most efficient solutions to the problems that are presented to me and I can adapt myself in different work groups.</p>
+    <p align='center'>I'm currently looking to access my first work experience in the IT industry, and I can fill the positions of Data Scientist, Frontend Developer, and Software Developer, where I have experience in languages such as C, C++, Python, JavaScript and Java. Likewise, I'm able to adapt to an unfamiliar technology, and to be able to perform well in projects.</p>
 </div>
 
 ---
@@ -26,7 +27,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="40" height="40"/>&nbsp;
         
-      </div>
 </div>
 
 ---
