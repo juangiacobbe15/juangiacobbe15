@@ -8,8 +8,8 @@
 
 ### 👨‍💻 About me
 
-- 💬 Ask me about **Node JS and React JS**
-- 📫 How to reach me: **juanignaciogiacobbe@gmail.com**
+- 💬 Ask me about **Node JS, React JS and Data Science**
+- 📫 How to reach me: **juanignaciogiacobbecontacto@gmail.com**
 - 💼 My Personal Portfolio: In work
 
 <div align="left">
@@ -23,6 +23,9 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Boostrap" alt="Boostrap" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="Cplusplus"  alt="Cplusplus" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express"  alt="Express" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="40" height="40"/>&nbsp;
+        
       </div>
 </div>
 
