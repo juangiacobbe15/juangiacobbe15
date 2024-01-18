@@ -11,7 +11,8 @@
 
 - 💬 Ask me about **Node JS, React JS and Data Science**
 - 📫 How to reach me: **juanignaciogiacobbecontacto@gmail.com**
-- 💼 My Personal Portfolio: In work
+
+<!--- - 💼 My Personal Portfolio: In work --->
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
